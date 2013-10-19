@@ -29,7 +29,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4">
-					<p>hello</p>
+					<p>hello test</p>
 				</div>
 				<div class="col-lg-4">
 					<p>hello</p>
